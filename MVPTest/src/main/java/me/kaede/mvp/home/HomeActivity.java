@@ -81,7 +81,7 @@ public class HomeActivity extends ActionBarActivity implements AdapterView.OnIte
 		int id = item.getItemId();
 		if (id == R.id.action_github) {
 			Intent intent = new Intent(Intent.ACTION_VIEW);
-			intent.setData(Uri.parse("https://github.com/kaedea/"));
+			intent.setData(Uri.parse("https://github.com/AndyAls"));
 			startActivity(intent);
 			return true;
 		}else if (id== R.id.action_csdn){

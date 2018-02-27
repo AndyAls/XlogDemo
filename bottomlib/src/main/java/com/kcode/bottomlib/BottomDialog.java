@@ -21,9 +21,6 @@ import android.widget.TextView;
 
 import com.kcode.bottomlib.utils.AnimationUtils;
 
-/**
- * Created by caik on 2017/3/20.
- */
 
 public class BottomDialog extends DialogFragment {
 
