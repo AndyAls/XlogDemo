@@ -1,0 +1,427 @@
+[
+    {
+        "outputFile": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endLine": 21,
+                        "endColumn": 14,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 53,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 163,
+                        "endColumn": 50,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 46,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 820,
+                        "endColumn": 43,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 47,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 47,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 88,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 88,
+                        "endOffset": 758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 58,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 58,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 46,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 46,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 50,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 50,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 93,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1283,
+                        "endColumn": 90,
+                        "endOffset": 1372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 55,
+                    "endOffset": 740
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1374,
+                        "endColumn": 52,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 745,
+                    "endColumn": 62,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1223,
+                        "endColumn": 59,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 47,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 47,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 46,
+                    "endOffset": 898
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 46,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 903,
+                    "endColumn": 62,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1163,
+                        "endColumn": 59,
+                        "endOffset": 1221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 53,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 53,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 53,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 53,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 57,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1060,
+                        "endColumn": 54,
+                        "endOffset": 1113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 47,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 47,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 67,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 67,
+                        "endOffset": 1493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 50,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1115,
+                        "endColumn": 47,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endColumn": 49,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 49,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 53,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\values-zh-rCN\\hwpush_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1009,
+                        "endColumn": 50,
+                        "endOffset": 1058
+                    }
+                }
+            }
+        ]
+    }
+]

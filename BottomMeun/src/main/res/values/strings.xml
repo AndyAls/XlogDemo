@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomMenuTutorial</string>
+    <string name="hide_bottom_sheet">hide bottom sheet</string>
+    <string name="show_bottom_sheet">show bottom sheet</string>
+    <string name="hide_bottom_sheet_dialog">hide bottom sheet dialog</string>
+    <string name="show_bottom_sheet_dialog">show bottom sheet dialog</string>
+    <string name="bottom_dialog_lib_cancel">取消啊</string>
+</resources>

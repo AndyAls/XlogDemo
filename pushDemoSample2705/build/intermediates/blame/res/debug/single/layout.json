@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_msg_show.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_msg_show.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout2.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_layout2.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_collect_tip_dialog.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_collect_tip_dialog.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_icons_layout.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_icons_layout.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout4.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_layout4.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\tagreport.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\tagreport.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout7.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_layout7.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_collection_listview.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_collection_listview.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_layout8.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_layout8.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_buttons_layout.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_buttons_layout.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\hwpush_collection_item.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\hwpush_collection_item.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\layout\\mian.xml",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\layout\\mian.xml"
+    }
+]

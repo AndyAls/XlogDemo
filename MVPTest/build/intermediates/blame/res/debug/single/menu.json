@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\MVPTest\\build\\intermediates\\res\\merged\\debug\\menu\\menu_adapter.xml",
+        "source": "D:\\02_demo\\XLogDemo\\MVPTest\\src\\main\\res\\menu\\menu_adapter.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\MVPTest\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\02_demo\\XLogDemo\\MVPTest\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

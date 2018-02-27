@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.kaede.androidmvppattern"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" /> <!-- To store the heap dumps and leak analysis results. -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="me.kaede.mvp.MvpApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        <activity
+            android:name="me.kaede.mvp.home.HomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="me.kaede.mvp.eventbus.EventBusActivity"
+            android:label="MVP with EventBus" >
+        </activity>
+        <activity
+            android:name="me.kaede.mvp.login.LoginActivity"
+            android:label="MVP with Login Showcase" >
+        </activity>
+        <activity
+            android:name="me.kaede.mvp.loginoptimized.LoginOptimizedActivity"
+            android:label="Optimized MVP with Login Showcase" >
+        </activity>
+        <activity
+            android:name="me.kaede.mvp.outteradapter.AdapterActivityA"
+            android:label="MVP in Adapter A" >
+        </activity>
+        <activity
+            android:name="me.kaede.mvp.outteradapter.AdapterActivityB"
+            android:label="MVP in Adapter B" >
+        </activity>
+        <activity
+            android:name="me.kaede.mvp.fragment.FragmentsActivity"
+            android:label="MVP in Fragments"
+            android:theme="@style/NoActionBar" >
+        </activity>
+        <activity android:name="me.kaede.mvp.home.presenter.MyActivity" />
+
+        <service
+            android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
+            android:enabled="false"
+            android:process=":leakcanary" />
+        <service
+            android:name="com.squareup.leakcanary.DisplayLeakService"
+            android:enabled="false" />
+
+        <activity
+            android:name="com.squareup.leakcanary.internal.DisplayLeakActivity"
+            android:enabled="false"
+            android:icon="@drawable/__leak_canary_icon"
+            android:label="@string/__leak_canary_display_activity_label"
+            android:taskAffinity="com.squareup.leakcanary"
+            android:theme="@style/__LeakCanary.Base" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

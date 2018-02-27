@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:3:11-33
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+application
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:5:5-45:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\73d6c57dd7d9a36bfc111d9f691683cff9b3b343\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\144a69cba62ca10a69751f77689b022c11881f59\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\c4a361d2890d9b5568e5dda64f342e35d8ac454a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\df249a32e2b0f31ec7cf2ba1a1233b5460662eec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\b8d0e1bb624a9fb715a0bf16c2c79bef31972506\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\d3a7939a64d76ed4d3dee05dda9938b0c15862a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\d3f6b7928f8f18a858618b62b0a1472b16210761\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\0efd19637eb6a817d62f2bfd637db2785e6a3b0e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\c33f5c62247f472c1648b1631c42d77898d83bcb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\12f412ffc3ee2a0d23fb36d12340ec694b636048\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\08d9da4166d17c901e1b0a13b9e47483819e7fa8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:27:5-49:19
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:9:13-45
+	android:allowBackup
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:7:13-39
+	android:icon
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:8:13-47
+	android:theme
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:10:13-71
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:6:13-43
+activity#me.kaede.mvp.home.HomeActivity
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:11:9-18:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:13:17-49
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:12:17-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:16:27-74
+activity#me.kaede.mvp.eventbus.EventBusActivity
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:19:9-22:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:21:17-50
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:20:17-58
+activity#me.kaede.mvp.login.LoginActivity
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:25:17-56
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:24:17-52
+activity#me.kaede.mvp.loginoptimized.LoginOptimizedActivity
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:29:17-66
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:28:17-70
+activity#me.kaede.mvp.outteradapter.AdapterActivityA
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:32:17-63
+activity#me.kaede.mvp.outteradapter.AdapterActivityB
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:37:17-49
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:36:17-63
+activity#me.kaede.mvp.fragment.FragmentsActivity
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:39:9-43:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:41:17-49
+	android:theme
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:42:17-51
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:40:17-59
+activity#me.kaede.mvp.home.presenter.MyActivity
+ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:44:9-74
+	android:name
+		ADDED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:44:19-72
+uses-sdk
+INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\73d6c57dd7d9a36bfc111d9f691683cff9b3b343\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\144a69cba62ca10a69751f77689b022c11881f59\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\c4a361d2890d9b5568e5dda64f342e35d8ac454a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\df249a32e2b0f31ec7cf2ba1a1233b5460662eec\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\b8d0e1bb624a9fb715a0bf16c2c79bef31972506\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\d3a7939a64d76ed4d3dee05dda9938b0c15862a6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\d3f6b7928f8f18a858618b62b0a1472b16210761\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\0efd19637eb6a817d62f2bfd637db2785e6a3b0e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\c33f5c62247f472c1648b1631c42d77898d83bcb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\861f363de3ec1395adc091bdec81e27680d5c27a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\12f412ffc3ee2a0d23fb36d12340ec694b636048\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\08d9da4166d17c901e1b0a13b9e47483819e7fa8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\73d6c57dd7d9a36bfc111d9f691683cff9b3b343\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\73d6c57dd7d9a36bfc111d9f691683cff9b3b343\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\144a69cba62ca10a69751f77689b022c11881f59\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\c4a361d2890d9b5568e5dda64f342e35d8ac454a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\df249a32e2b0f31ec7cf2ba1a1233b5460662eec\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\b8d0e1bb624a9fb715a0bf16c2c79bef31972506\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\d3a7939a64d76ed4d3dee05dda9938b0c15862a6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\d3f6b7928f8f18a858618b62b0a1472b16210761\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\0efd19637eb6a817d62f2bfd637db2785e6a3b0e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\c33f5c62247f472c1648b1631c42d77898d83bcb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\861f363de3ec1395adc091bdec81e27680d5c27a\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\12f412ffc3ee2a0d23fb36d12340ec694b636048\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\08d9da4166d17c901e1b0a13b9e47483819e7fa8\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\73d6c57dd7d9a36bfc111d9f691683cff9b3b343\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\shuai.li13\.android\build-cache\73d6c57dd7d9a36bfc111d9f691683cff9b3b343\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:25:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:28:9-31:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:30:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:31:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:29:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:32:9-34:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:33:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:36:9-48:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:38:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:40:13-73
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:39:13-56
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:42:13-53
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:41:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3.1] C:\Users\shuai.li13\.android\build-cache\d5447b2a4397909b3e1d9116a691bd3b05b5398c\output\AndroidManifest.xml:37:13-80
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\02_demo\XLogDemo\MVPTest\src\main\AndroidManifest.xml:2:1-47:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\MVPTest\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\144a69cba62ca10a69751f77689b022c11881f59\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\MVPTest\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\144a69cba62ca10a69751f77689b022c11881f59\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\MVPTest\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\144a69cba62ca10a69751f77689b022c11881f59\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\MVPTest\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\144a69cba62ca10a69751f77689b022c11881f59\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

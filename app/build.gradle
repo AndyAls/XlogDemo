@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+//apply tinker插件
+//apply plugin: 'com.tencent.tinker.patch'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'bieming'
+            keyPassword '111111'
+            storeFile rootProject.file("keystore/keystore.jks")
+            storePassword '123456'
+        }
+    }
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "com.geely.mars.xlogdemo"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            shrinkResources false
+            signingConfig signingConfigs.config
+            debuggable true
+        }
+        debug {
+        }
+    }
+
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
+    testCompile 'junit:junit:4.12'
+    //noinspection GradleCompatible
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.tencent.mars:mars-xlog:1.0.6'
+    //可选，用于生成application类
+    provided('com.tencent.tinker:tinker-android-anno:1.9.0')
+    //tinker的核心库
+    compile('com.tencent.tinker:tinker-android-lib:1.9.0')
+}

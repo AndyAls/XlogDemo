@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hwpush_bgcolor">#2c9195</color>
+    <color name="hwpush_black">#ff000000</color>
+    <color name="hwpush_black_color">#000000</color>
+    <color name="hwpush_bt_txt_nor">#65000000</color>
+    <color name="hwpush_select_color">#00bcd5</color>
+    <color name="hwpush_text_color_history_url">#80000000</color>
+    <color name="hwpush_text_color_snapshot_title">#FF000000</color>
+    <color name="hwpush_white">#ffffffff</color>
+    <plurals name="hwpush_delete_tip">
+        <!--  The example of %d is 1-->
+        <item quantity="one">Delete selected notification?</item>
+        <!--  The example of %d is 11-->
+        <item quantity="other">Delete selected notifications?</item>
+    </plurals>
+    <string name="action_settings">Settings</string>
+    <string name="age">年龄:</string>
+    <string name="app_name">PushDemo</string>
+    <string name="closeLBS">关闭位置定时上报</string>
+    <string name="cloudpush_app_name">Push Service</string>
+    <string name="delTag">删除标签</string>
+    <string name="getTag">获取标签</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hwpush_ability_value" translatable="false">successRateAnalytics</string>
+    <string name="hwpush_cancel">Cancel</string>
+    <string name="hwpush_collect">Favorite</string>
+    <string name="hwpush_collect_tip">A Favorites icon will be created on the home screen. You can touch the icon to view all your favorite notifications.</string>
+    <string name="hwpush_collect_tip_known">OK</string>
+    <string name="hwpush_delete">Delete</string>
+    <string name="hwpush_deltitle">Delete notifications</string>
+    <string name="hwpush_dialog_limit_message">A maximum of 1000 favorite notifications can be saved. Delete some notifications before you can add new ones. Go to your favorite notifications list?</string>
+    <string name="hwpush_dialog_limit_ok">Go</string>
+    <string name="hwpush_dialog_limit_title">Note</string>
+    <string name="hwpush_forward">Forward</string>
+    <string name="hwpush_goback">Back</string>
+    <string name="hwpush_loading_title">Loading... Please wait.</string>
+    <string name="hwpush_msg_collect">Favorites</string>
+    <string name="hwpush_msg_favorites">Favorite notifications</string>
+    <string name="hwpush_no_collection">No favorite notifications</string>
+    <string name="hwpush_refresh">Refresh</string>
+    <string name="hwpush_request_provider_permission">Store messages</string>
+    <string name="hwpush_richmedia">Rich media</string>
+    <string name="hwpush_selectall">Select all</string>
+    <string name="hwpush_unselectall">Deselect all</string>
+    <string name="location">位置上报</string>
+    <string name="name">姓名:</string>
+    <string name="openLBS">开启位置定时上报</string>
+    <string name="pinlv">位置信息上报周期(min):</string>
+    <string name="setInterval">设置周期(秒)</string>
+    <string name="setTag">设置标签</string>
+    <string name="tag1">标签1：</string>
+    <string name="tag2">标签2：</string>
+    <string name="tag_delete_key">请输入待删标签名</string>
+    <string name="tag_key">请输入标签名(空则不设置)</string>
+    <string name="tag_value">请输入标签值</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="hwpush_NoActionBar" parent="android:Theme.Holo.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

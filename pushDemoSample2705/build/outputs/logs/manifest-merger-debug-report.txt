@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:2:1-138:12
+	package
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+		INJECTED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:17:22-78
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:19:22-85
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:22:22-78
+uses-permission#com.huawei.pushagent.permission.RICHMEDIA_PROVIDER
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:25:5-89
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:25:22-87
+application
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:27:5-136:19
+	android:label
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:30:9-38
+	android:theme
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:28:9-57
+activity#com.huawei.pushtest.PustDemoActivity
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:36:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:41:27-74
+activity#com.huawei.pushtest.TagReportActivity
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:46:9-54:20
+	android:label
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:47:13-65
+intent-filter#android.intent.category.DEFAULT+com.huawei.push.action.test
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:49:13-53:29
+action#com.huawei.push.action.test
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:50:17-70
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:50:25-67
+category#android.intent.category.DEFAULT
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:52:27-73
+receiver#com.huawei.pushtest.receiver.MyReceiver
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:57:9-71:20
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:57:19-73
+intent-filter#com.huawei.android.push.intent.CLICK+com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION+com.huawei.android.push.plugin.RESPONSE+com.huawei.intent.action.PUSH_STATE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:58:13-69:29
+action#com.huawei.android.push.intent.REGISTRATION
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:60:17-86
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:60:25-83
+action#com.huawei.android.push.intent.RECEIVE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:62:17-81
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:62:25-78
+action#com.huawei.android.push.intent.CLICK
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:64:17-79
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:64:25-76
+action#com.huawei.intent.action.PUSH_STATE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:66:17-78
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:66:25-75
+action#com.huawei.android.push.plugin.RESPONSE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:68:17-82
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:68:25-79
+meta-data#CS_cloud_ablitity
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:70:13-103
+	android:value
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:70:57-101
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:70:24-56
+receiver#com.huawei.android.pushagent.PushEventReceiver
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:77:9-92:20
+	android:process
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:79:13-43
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:78:13-74
+intent-filter#com.huawei.android.push.PLUGIN+com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL+com.huawei.intent.action.PUSH+com.huawei.intent.action.PUSH_ON
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:80:13-85:29
+action#com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:81:17-94
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:81:25-91
+action#com.huawei.intent.action.PUSH
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:82:17-72
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:82:25-69
+action#com.huawei.intent.action.PUSH_ON
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:83:17-75
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:83:25-72
+action#com.huawei.android.push.PLUGIN
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:84:17-73
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:84:25-70
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:86:13-91:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:87:17-78
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:87:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:88:17-80
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:88:25-77
+data
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:90:17-50
+	android:scheme
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:90:23-47
+receiver#com.huawei.android.pushagent.PushBootReceiver
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:93:9-103:20
+	android:process
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:95:13-43
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:94:13-73
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+com.huawei.android.push.intent.REGISTER
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:96:13-99:29
+action#com.huawei.android.push.intent.REGISTER
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:97:25-79
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:98:25-76
+meta-data#CS_cloud_version
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:100:13-102:60
+	android:value
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:102:17-57
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:101:17-48
+service#com.huawei.android.pushagent.PushService
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:106:9-109:19
+	android:process
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:108:13-43
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:107:13-68
+activity#com.huawei.android.pushselfshow.richpush.RichPushActivity
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:113:9-126:20
+	android:process
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:115:13-43
+	android:screenOrientation
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:118:13-49
+	android:configChanges
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:117:13-82
+	android:theme
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:116:13-54
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:114:13-85
+meta-data#hwc-theme
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:119:13-120:71
+	android:value
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:120:24-69
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:119:24-48
+intent-filter#android.intent.category.DEFAULT+com.huawei.android.push.intent.RICHPUSH
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:121:13-125:29
+action#com.huawei.android.push.intent.RICHPUSH
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:122:17-82
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:122:25-79
+activity#com.huawei.android.pushselfshow.permission.RequestPermissionsActivity
+ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:128:9-135:20
+	android:screenOrientation
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:132:13-49
+	android:launchMode
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:131:13-43
+	android:exported
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:134:13-37
+	android:configChanges
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:133:13-82
+	android:theme
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:130:13-88
+	android:name
+		ADDED from D:\02_demo\XLogDemo\pushDemoSample2705\src\main\AndroidManifest.xml:129:13-97

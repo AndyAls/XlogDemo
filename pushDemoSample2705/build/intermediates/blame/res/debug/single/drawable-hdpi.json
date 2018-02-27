@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pushnotify.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\pushnotify.png"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\push.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\push.png"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gettoken.png",
+        "source": "D:\\02_demo\\XLogDemo\\pushDemoSample2705\\src\\main\\res\\drawable-hdpi\\gettoken.png"
+    }
+]
