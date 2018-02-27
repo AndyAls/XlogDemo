@@ -11,9 +11,6 @@ import me.kaede.mvp.eventbus.view.IEventBusView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by kaede on 2015/5/19.
- */
 public class EventBusPresenterCompl implements IEventBusPresenter {
 	List<String> datas;
 	IEventBusView iEventBusView;

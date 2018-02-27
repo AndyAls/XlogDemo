@@ -7,9 +7,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by kaede on 2015/10/13.
- */
 public class ActivityHolder {
 	Map<String, Class<?extends Activity>> activityMap;
 	List<String> nameList;

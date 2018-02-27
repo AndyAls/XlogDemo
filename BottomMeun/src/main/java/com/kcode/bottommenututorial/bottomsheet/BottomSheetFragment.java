@@ -15,10 +15,6 @@ import android.widget.TextView;
 
 import com.kcode.bottommenututorial.R;
 
-/**
- * Created by caik on 2016/9/28.
- */
-
 public class BottomSheetFragment extends BottomSheetDialogFragment {
     public static BottomSheetFragment newInstance() {
         BottomSheetFragment fragment = new BottomSheetFragment();

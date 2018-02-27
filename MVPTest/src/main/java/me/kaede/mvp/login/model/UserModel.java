@@ -1,8 +1,5 @@
 package me.kaede.mvp.login.model;
 
-/**
- * Created by kaede on 2015/5/18.
- */
 public class UserModel implements IUser {
 	String name;
 	String passwd;

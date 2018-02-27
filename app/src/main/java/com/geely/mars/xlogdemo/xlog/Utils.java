@@ -6,10 +6,7 @@ import android.support.annotation.NonNull;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 16/12/08
- *     desc  : Utils初始化相关
+ *     工具类
  * </pre>
  */
 public final class Utils {

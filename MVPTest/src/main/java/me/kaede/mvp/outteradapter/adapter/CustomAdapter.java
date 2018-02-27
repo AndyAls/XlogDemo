@@ -11,9 +11,6 @@ import me.kaede.mvp.outteradapter.presenter.IAdapterPresenter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by kaede on 2015/10/13.
- */
 public class CustomAdapter extends BaseAdapter {
 	IAdapterPresenter iAdapterPresenter;
 	List<String> datas;

@@ -13,9 +13,6 @@ import me.kaede.mvp.loginoptimized.LoginOptimizedActivity;
 import me.kaede.mvp.outteradapter.AdapterActivityA;
 import me.kaede.mvp.outteradapter.AdapterActivityB;
 
-/**
- * Created by kaede on 2015/5/19.
- */
 public class HomePresenterCompl implements IHomePresenter {
 	public static ActivityHolder activityHolder;
 	static {

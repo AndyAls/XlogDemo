@@ -17,7 +17,7 @@ import java.io.File;
 
 
 /**
- * Created by Shuai.Li13 on 2017/10/26.
+ * xlog日志
  *
  */
 public class XLog {

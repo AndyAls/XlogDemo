@@ -13,10 +13,6 @@ import android.widget.Toast;
 import com.kcode.bottomlib.BottomDialog;
 import com.kcode.bottommenututorial.bottomsheet.BottomSheetActivity;
 
-/**
- * Created by caik on 2016/9/25.
- */
-
 public class MainFragment extends Fragment {
 
     private static final String TAG = "MainFragment";

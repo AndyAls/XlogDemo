@@ -7,4 +7,10 @@
           android:icon="@drawable/icon_github"
           android:orderInCategory="100"
           app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_csdn"
+        android:title="CSDN"
+        android:icon="@drawable/csdn"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
 </menu>

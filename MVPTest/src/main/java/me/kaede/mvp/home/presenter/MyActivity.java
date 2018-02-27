@@ -11,10 +11,6 @@ import org.w3c.dom.ls.LSException;
 import me.kaede.mvp.R;
 import me.kaede.mvp.home.EncryptUtil;
 
-/**
- * Created by Shuai.Li13 on 2017/12/12.
- */
-
 public class MyActivity extends Activity {
 
     private final String TAG=this.getClass().getSimpleName();

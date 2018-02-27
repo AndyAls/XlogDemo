@@ -84,6 +84,11 @@ public class HomeActivity extends ActionBarActivity implements AdapterView.OnIte
 			intent.setData(Uri.parse("https://github.com/kaedea/"));
 			startActivity(intent);
 			return true;
+		}else if (id== R.id.action_csdn){
+			Intent intent = new Intent(Intent.ACTION_VIEW);
+			intent.setData(Uri.parse("http://blog.csdn.net/Andy_l1"));
+			startActivity(intent);
+			return true;
 		}
 		return super.onOptionsItemSelected(item);
 	}

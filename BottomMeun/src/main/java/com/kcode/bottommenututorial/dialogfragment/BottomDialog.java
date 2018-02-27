@@ -15,10 +15,6 @@ import android.view.WindowManager;
 import com.kcode.bottommenututorial.R;
 import com.kcode.bottommenututorial.utils.AnimationUtils;
 
-/**
- * Created by caik on 2016/9/25.
- */
-
 public class BottomDialog extends DialogFragment {
 
     public static BottomDialog newInstance() {

@@ -1,2 +1,2 @@
-include ':app', ':sqldemo', ':mvpdemo', ':MVPTest', ':eventbusdemo', ':BottomMeun', ':bottomlib', ':mylibrary', ':instantapp'
+include ':app', ':sqldemo', ':MVPTest', ':eventbusdemo', ':BottomMeun', ':bottomlib', ':mylibrary'
 include ':pushDemoSample2705'

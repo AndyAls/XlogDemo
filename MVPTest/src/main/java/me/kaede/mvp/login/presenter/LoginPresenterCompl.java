@@ -5,10 +5,6 @@ import android.os.Looper;
 import me.kaede.mvp.login.model.IUser;
 import me.kaede.mvp.login.model.UserModel;
 import me.kaede.mvp.login.view.ILoginView;
-
-/**
- * Created by kaede on 2015/5/18.
- */
 public class LoginPresenterCompl implements ILoginPresenter {
 	ILoginView iLoginView;
 	IUser user;

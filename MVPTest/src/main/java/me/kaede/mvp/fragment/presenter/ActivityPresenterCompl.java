@@ -10,10 +10,6 @@ import me.kaede.mvp.fragment.event.FragmentGetDatasEvent;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
-/**
- * Created by kaede on 2015/5/19.
- */
 public class ActivityPresenterCompl implements IActivityPresenter {
 	Context context;
 

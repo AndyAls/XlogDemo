@@ -8,9 +8,6 @@ import me.kaede.mvp.outteradapter.view.IAdapterView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by kaede on 2015/5/19.
- */
 public class AdapterPresenterCompl implements IAdapterPresenter {
 	List<String> datas;
 	IAdapterView iAdapterView;
